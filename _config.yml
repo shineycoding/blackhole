@@ -79,7 +79,7 @@ ga_domain: yanxin.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "颜鑫，编程语言/编译器初心者 <br> An Backend dev accidentally growing into a compiler/PL hacker."
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://yanxin-work.oss-cn-beijing.aliyuncs.com/peppa-pig.jpeg?Expires=1641992623&OSSAccessKeyId=TMP.3KkHWCMdkhZypLkYS2mZ62tzxBKreH6GuwwZFKfxFdkDfnNWfG1fT1bnjRpQfsVjE8ECGvvgQbrf5dc9CDmwkhmVEWPSAe&Signature=PAELITTYd2mnA3uoFEQiYHTRKqI%3D&versionId=CAEQGRiBgICctNe48hciIDQxYjg0YmIwMTBhZjQ3MjFiYTYzNzdjNDZhMjg4NGMy # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
